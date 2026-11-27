@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-11-26T06:44:02.788Z",
-  "totalProjects": 82,
+  "generatedAt": "2026-11-27T06:35:30.211Z",
+  "totalProjects": 83,
   "curatedCount": 30,
   "featuredCount": 6,
   "projects": [
@@ -1526,7 +1526,7 @@
       }
     },
     {
-      "slug": "traillink",
+      "slug": "traillink-android-app",
       "name": "TrailLink",
       "tagline": "Turn an older Samsung Galaxy S7 into a monitored offline travel hotspot appliance.",
       "description": "TrailLink runs offline on stock Android 8.0 Oreo without root to monitor cellular signal, battery thermal safety, data usage, and travel sessions while a dedicated hotspot phone stays inside a backpack.",
@@ -1550,7 +1550,7 @@
       "downloads": [],
       "safetyNote": false,
       "statusNote": "v0.1.0 source available; prebuilt APK release not yet published.",
-      "readmeFile": "traillink.md",
+      "readmeFile": "traillink-android-app.md",
       "repo": {
         "owner": "smile-plzz",
         "name": "traillink-android-app",
@@ -1912,6 +1912,45 @@
         "audience": "manual-override",
         "features": "manual-override",
         "statusNote": "manual-override"
+      }
+    },
+    {
+      "slug": "traillink",
+      "name": "TrailLink",
+      "tagline": "Community-powered trekking intelligence and destination information platform (web-first, bilingual Bangla & English...",
+      "description": "Community-powered trekking intelligence and destination information platform (web-first, bilingual Bangla & English PWA), starting in Bandarban, Bangladesh.",
+      "features": [],
+      "category": "other",
+      "status": "prototype",
+      "platforms": [],
+      "tech": [
+        "PLpgSQL"
+      ],
+      "screenshots": [],
+      "downloads": [],
+      "safetyNote": false,
+      "readmeFile": "traillink.md",
+      "repo": {
+        "owner": "smile-plzz",
+        "name": "traillink",
+        "url": "https://github.com/smile-plzz/traillink",
+        "defaultBranch": "main",
+        "isArchived": false
+      },
+      "curated": false,
+      "needsReview": true,
+      "featured": false,
+      "updatedAt": "2026-11-27T03:53:12Z",
+      "relatedWorks": [],
+      "relatedProjects": [],
+      "provenance": {
+        "name": "readme",
+        "tagline": "readme",
+        "description": "readme",
+        "category": "github-api",
+        "platforms": "github-api",
+        "status": "github-api",
+        "tech": "github-api"
       }
     },
     {
